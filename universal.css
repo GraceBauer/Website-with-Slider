@@ -1,0 +1,13 @@
+@charset "utf-8"; 
+/* CSS Document für allgemeine Formate */
+
+body				{ background-color:rgba(59,59,59,1.00);
+   /**/ background-image:url("../img/hintergrund2.jpg");
+    background-size: cover;
+    font-family: "Trebuchet MS", Verdana, sans-serif;
+color: #FFFFFf;}
+section				{ background-color:rgba(44,44,44,0.75);
+}
+table, td, th		{ border: 1px solid #001463;}
+th					{ background-color:rgba(44,44,44,0.75);}
+nav 				{background-color: rgba(44,44,44,0.75);}
